@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+        <title>アクセスカウンタテストページ</title>
+    </head>
+    <body>
+        <p>アクセスカウンタテスト<br></p>
+        <p>以下は外部のphp部品を読み込んで出力しています。<br></p>
+        <hr> 
+        <script type="text/javascript" src="ouyou02.php"></script> 
+        <hr> 
+    </body>
+</html>
